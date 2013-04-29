@@ -1,4 +1,4 @@
-Swipebox
+Swipebox simplifyed
 ================================
 
 A touchable jQuery lightbox.
@@ -52,6 +52,10 @@ Bind the swipebox behaviour on every link with the "swipebox" class.
 
 ###Need a couple of options?
 
-
 `useCSS : true, // false will force the use of jQuery for animations`
-`hideBarsDelay : 3000 // 0 to always show caption and action bar`
+
+###Changes compared to the original version
+
+- removed auto-hide feature (title and action bar)
+- replaced icons (png/svg) by fonts (incl. IE8 support)
+- different default style
