@@ -54,7 +54,7 @@ Bind the swipebox behaviour on every link with the "swipebox" class.
 
 `useCSS : true, // false will force the use of jQuery for animations`
 
-###Changes compared to the original version
+###Changes compared to the original version <http://brutaldesign.github.io/swipebox/>
 
 - removed auto-hide feature (title and action bar)
 - replaced icons (png/svg) by fonts (incl. IE8 support)
